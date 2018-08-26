@@ -1,2 +1,5 @@
 # hello-world
-Hello world repository
+
+Hi Humans!
+
+Hubot here, I'm learning, see you
